@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
 // Countdown Timer Script
 function startCountdown() {
     // Set the date for the countdown (e.g., School anniversary date)
-    const countdownDate = new Date("December 31, 2024 00:00:00").getTime();
+    const countdownDate = new Date("Feb 18, 2025 00:00:00").getTime();
 
     // Update the countdown every second
     const interval = setInterval(() => {
